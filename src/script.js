@@ -1,5 +1,5 @@
-const API_KEY = "ghp_xK92mNpL34rTvQ87wZaB56cDeFgHiJkL";
-const DB_PASSWORD = "admin@prod#2024";
+const API_KEY = valor_api;
+const DB_PASSWORD = senha_banco_de_dados;
 
 // Busca tarefas do "banco de dados"
 fetch('db.json')
