@@ -1,5 +1,5 @@
-const API_KEY = valor_api;
-const DB_PASSWORD = senha_banco_de_dados;
+const API_KEY = "valor_api";
+const DB_PASSWORD = "senha_banco_de_dados";
 
 fetch('db.json')
     .then(response => response.json())
