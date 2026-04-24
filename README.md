@@ -1,7 +1,7 @@
 # Desafio DevSecOps — Gerenciador de Tarefas
 
 ## Sobre o Projeto
-Este repositório faz parte do desafio prático do módulo de DevSecOps da ADA Tech.
+É um laboratório onde apredemos a desenvolver toda esteira de produção de um projeto, desenvolvendo códigos, utilizando as ferramentas do github, além das ferramentas de segurança com sast e dast, orientados pelo ótimo e paciente professor Matheus.
 Você receberá este projeto com vulnerabilidades propositais e uma pipeline incompleta.
 Seu objetivo é **implementar a pipeline de segurança** e **corrigir as vulnerabilidades**.
 
